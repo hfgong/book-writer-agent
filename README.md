@@ -97,10 +97,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-### Alternative License Options
-
-For documentation projects, you might also consider:
-- **Creative Commons (CC BY 4.0)** - Good for documentation and educational content
-- **Apache 2.0** - Provides patent protection
-- **GPL v3** - Ensures derivative works remain open source
