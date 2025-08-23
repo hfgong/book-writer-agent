@@ -56,7 +56,8 @@ Consider textbook tone and style first if not specified.
 
 # Proofread and Feedbacks
 
-I will use \\begin{comment}\\end{comment} to add my feedback into the latex file when I proofread. If being asked, address them one by one, and add \`\`% addressed", to make them as resolved.  
+I will use \\begin{comment}\\end{comment} to add my feedback into the latex file when I proofread. If being asked, address them one by one, and add \`\`% addressed", to make them as resolved.
+Note: In comment environment, avoid commands like \item to break compiling.
 You can also use this idea to add TODO items for yourself.
 
 # Frequent Latex Errors to Avoid
