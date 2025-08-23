@@ -54,7 +54,7 @@ Consider diagram/table/formula driven writing. If suited, after writing the outl
 
 Consider textbook tone and style first if not specified.
 
-# Feedbacks
+# Proofread and Feedbacks
 
 I will use \\begin{comment}\\end{comment} to add my feedback into the latex file when I proofread. If being asked, address them one by one, and add \`\`% addressed", to make them as resolved.  
 You can also use this idea to add TODO items for yourself.
